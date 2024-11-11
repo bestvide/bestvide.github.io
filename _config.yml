@@ -7,11 +7,11 @@ email: hello@nikhita.dev
 description: >
   A personal website about technical things I find useful. Also, random ramblings and rants.
 baseurl: ""
-url: "https://www.nikhita.dev"
+url: "https://bestvide.github.io"
 twitter_username: TheNikhita
 github_username:  nikhita
-disqus_baseurl: "https://nikhita.github.io/"
-disqus_shortname: https-nikinath-github-io
+disqus_baseurl: "https://bestvide.github.io/"
+disqus_shortname: https://bestvide.github.io
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
@@ -79,7 +79,7 @@ social:
   - name: GitHub
     icon: github
     username: nikhita
-    url: https://github.com/nikhita
+    url: https://github.com/bestvide
     desc: Fork me on GitHub
     share: false
 
@@ -185,6 +185,6 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikhita/nikhita.github.io"
+    os_repo: "https://github.com/bestvide/bestvide.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nikhita.github.io.git"
+    os_src: "git@github.com:bestvide.github.io.git"
