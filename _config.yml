@@ -11,7 +11,7 @@ url: "https://trending.mview.online"
 twitter_username: TheNikhita
 github_username:  nikhita
 disqus_baseurl: "https://trending.mview.online/"
-disqus_shortname: https://trending.mview.online
+disqus_shortname: https://bestvide.github.io
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
