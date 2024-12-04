@@ -6,7 +6,7 @@ subtitle: Learnings, Ramblings and Rants
 email: hello@nikhita.dev
 description: >
   A personal website about technical things I find useful. Also, random ramblings and rants.
-baseurl: "https://bestvide.github.io/"
+baseurl: "https://bestvide.github.io"
 url: "https://bestvide.github.io"
 twitter_username: TheNikhita
 github_username:  nikhita
